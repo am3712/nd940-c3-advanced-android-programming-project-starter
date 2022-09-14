@@ -11,4 +11,19 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="glide_option">Glide - Image Loading Library By Bump Tech</string>
+    <string name="load_app_option">Load App - Current repository by Udacity</string>
+    <string name="retrofit_option">Retrofit - Type-safe HTTP client for Android and Jave by Square, inc</string>
+
+    <string name="error_option">Please select the file to download</string>
+    <string name="channel_name">Load App Channel</string>
+    <string name="channel_description">Load App Channel describe notifications success of downloads</string>
+    <string name="content_title">Udacity: Android Kotlin Nanodegree</string>
+    <string name="content_text">The Project 3 repository is downloaded</string>
+    <string name="check_the_status">Check the status</string>
+    <string name="success">Success</string>
+    <string name="fail">Fail</string>
+    <string name="status">Status:</string>
+    <string name="file_name">File name:</string>
 </resources>
